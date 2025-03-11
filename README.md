@@ -1,2 +1,2 @@
-# Döviz Çevirme Uygulaması
- React ile hazır API kullanarak anlık döviz çevirme uygulamasıdır
+Currency Converter Application 
+A real-time currency conversion app developed with React using a ready-made API
